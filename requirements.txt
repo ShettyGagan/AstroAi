@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+matplotlib
+numpy
+langchain
+langchain-groq
+geopy
+timezonefinder
+swisseph
+pytz
+requests
+pydantic>=2.0
